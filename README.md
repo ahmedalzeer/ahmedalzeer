@@ -1,90 +1,71 @@
-# 👋 Hi, I'm Ahmed Ali  
-### Senior Full Stack Developer | Laravel & Vue.js Specialist
+# 👋 Hi, I'm Ahmed Ali
+### **Senior Full Stack Developer | Expert in Laravel & Vue.js**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-Laravel_%26_Vue-red?style=for-the-badge&logo=laravel" />
-  <img src="https://img.shields.io/badge/Location-Egypt-green?style=for-the-badge" />
+  <a href="https://linkedin.com/in/ahmed-alzeer-989913168"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://ahmedalzeer.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=react" /></a>
+  <img src="https://img.shields.io/badge/Experience-7%2B_Years-brightgreen?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
-I'm a **Senior Full Stack Developer** with **7+ years of experience** building scalable, secure, and high-performance web applications.  
-I specialize in **Laravel & Vue.js**, with strong experience in system architecture, database optimization, and CI/CD pipelines.
+## 🚀 Professional Profile
+I am a **Senior Full Stack Developer** with over **7 years of professional experience**. I have a proven track record of designing and implementing high-performance applications for **government, educational, and enterprise sectors** in Saudi Arabia and Egypt.
 
-- 💼 Worked with **government & enterprise systems** in Saudi Arabia & Egypt  
-- 🏗️ Led backend architecture and full lifecycle development  
-- ⚡ Focused on performance, clean code, and scalable solutions  
-- 🤝 Mentored junior developers & enforced best practices  
+-**Education:** Specialization in GIS from Zagazig University.
+-**Recent Experience:** Led PHP-based projects at **Arabic Computer Systems (ACS)** for the **Majmaah University** project.
+-**Core Expertise:** Advanced system architecture using **Laravel**, modern frontends with **Vue.js**, and complex database management.
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Specialized Tech Stack
 
-### Backend
-- PHP (Laravel)
-- Python
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Inertia.js](https://img.shields.io/badge/-Inertia.js-9553E9?logo=inertia.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) |
+| **Real-time & API** | ![WebSockets](https://img.shields.io/badge/-WebSockets-white?logo=socket.io&logoColor=black) ![REST_API](https://img.shields.io/badge/-REST_APIs-005571?logo=api&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) |
+| **Automation** | ![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4?logo=puppeteer&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white) |
+| **DevOps** | ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 
-### Frontend
-- Vue.js, Inertia.js
-- Tailwind CSS, Bootstrap
+---
 
-### Databases & Caching
-- MySQL, Oracle
-- Redis
+## 💼 Work Milestones
 
-### Real-Time & APIs
-- WebSockets (Laravel Reverb, Socket.io, Ratchet)
-- RESTful APIs
+### **Senior Full Stack Developer | Arabic Computer Systems (ACS)**
+*Sep 2022 – Jul 2025 (Saudi Arabia)*
+- Led PHP-based projects and oversaw system architecture for **Majmaah University**.
+- Integrated **CI/CD pipelines** using GitHub Actions for automated workflows.
+- Mentored junior developers and enforced high coding standards.
 
-### Automation & Scraping
-- Puppeteer
-- Playwright
-
-### DevOps
-- Git, GitHub
-- GitHub Actions (CI/CD)
+### **Full Stack Developer | Namaatec**
+*May 2021 – Sep 2022 (Saudi Arabia)* 
+- Built dynamic web applications using **Laravel** and enhanced UX with **Vue.js & Inertia**.
+- Managed and optimized **MySQL** databases for better performance.
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 E-Commerce Platform
-**Laravel + Vue.js | MySQL | Stripe**
-- Full e-commerce system with auth, cart, orders & payments
-- Secure payment integration (Stripe / PayPal)
-- Optimized queries & scalable architecture
+### 🛒 [E-Commerce Platform](https://github.com/ahmedalzeer/ecommerce)
+**Laravel + Vue.js | Stripe Payment Integration**
+- Advanced system featuring role-based access control and secure checkout.
 
-🔗 Repo: https://github.com/ahmedalzeer/ecommerce
-
----
-
-### 📊 Admin Dashboard
-**Laravel + Vue.js**
-- Role-based access control
-- Real-time data & analytics
-- Clean UI with Tailwind
-
-🔗 Repo: https://github.com/ahmedalzeer/laravel-vue-js-admin-dashboard
+### 🤖 Web Automation & Scraping
+- Custom tools built with **Puppeteer** and **Playwright** for large-scale data extraction and browser automation.
 
 ---
 
-### 🤖 Web Automation Tools
-**Puppeteer / Playwright**
-- Automated scraping & data extraction
-- Headless browser automation
-- Performance-optimized scripts
-
----
-
-## 🌍 Let's Connect
-- 🌐 Portfolio: https://ahmedalzeer.github.io
-- 💼 LinkedIn: https://linkedin.com/in/ahmed-ali-989913168
-- 📧 Email: AhmedAlzeeWebDeveloper@gmail.com
-
----
-
+## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedalzeer&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedalzeer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalzeer&layout=compact&theme=radical" />
 </p>
+
+---
+
+## 🌍 Reach Out
+- 📧 **Email:** [AhmedAlzeeWebDeveloper@gmail.com](mailto:AhmedAlzeeWebDeveloper@gmail.com) 
+- 🌐 **Portfolio:** [ahmedalzeer.github.io](https://ahmedalzeer.github.io)
+- 💼 **LinkedIn:** [ahmed-alzeer-989913168](https://linkedin.com/in/ahmed-alzeer-989913168) 
