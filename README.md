@@ -57,14 +57,6 @@ I am a **Senior Full Stack Developer** with over **7 years of professional exper
 
 ---
 
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedalzeer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalzeer&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🌍 Reach Out
 - 📧 **Email:** [AhmedAlzeeWebDeveloper@gmail.com](mailto:AhmedAlzeeWebDeveloper@gmail.com) 
 - 🌐 **Portfolio:** [ahmedalzeer.github.io](https://ahmedalzeer.github.io)
