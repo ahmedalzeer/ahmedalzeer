@@ -10,10 +10,10 @@
 ---
 
 ## 🚀 Professional Profile
-[cite_start]I am a **Senior Full Stack Developer** with over **7 years of professional experience**. [cite_start]I have a proven track record of designing and implementing high-performance applications for **government, educational, and enterprise sectors** in Saudi Arabia and Egypt.
+I am a **Senior Full Stack Developer** with over **7 years of professional experience**. I have a proven track record of designing and implementing high-performance applications for **government, educational, and enterprise sectors** in Saudi Arabia and Egypt.
 
-- [cite_start]**Education:** Specialization in GIS from Zagazig University.
-- [cite_start]**Core Expertise:** Advanced system architecture using **Laravel**, modern frontends with **Vue.js**, and complex database management.
+- **Education:** Specialization in GIS from Zagazig University.
+- **Core Expertise:** Advanced system architecture using **Laravel**, modern frontends with **Vue.js**, and complex database management.
 
 ---
 
@@ -33,26 +33,26 @@
 ## 💼 Work Milestones
 
 ### **Senior Full Stack Developer | Arabic Computer Systems (ACS)**
-[cite_start]*Sep 2022 – Jul 2025 (Saudi Arabia)* 
-- [cite_start]Led PHP-based projects and oversaw system architecture for **Majmaah University**.
-- [cite_start]Integrated **CI/CD pipelines** using GitHub Actions for automated workflows.
-- [cite_start]Mentored junior developers and enforced high coding standards.
+*Sep 2022 – Jul 2025 (Saudi Arabia)* 
+- Led PHP-based projects and oversaw system architecture for **Majmaah University**.
+- Integrated **CI/CD pipelines** using GitHub Actions for automated workflows.
+- Mentored junior developers and enforced high coding standards.
 
 ### **Full Stack Developer | Namaatec**
-[cite_start]*May 2021 – Sep 2022 (Saudi Arabia)* 
-- [cite_start]Built dynamic web applications using **Laravel** and enhanced UX with **Vue.js & Inertia**.
-- [cite_start]Managed and optimized **MySQL** databases for better performance.
+*May 2021 – Sep 2022 (Saudi Arabia)* 
+- Built dynamic web applications using **Laravel** and enhanced UX with **Vue.js & Inertia**.
+- Managed and optimized **MySQL** databases for better performance.
 
 ### **Full Stack Developer | Majmaah University**
-[cite_start]*Aug 2019 – May 2021 (Saudi Arabia)* 
-- [cite_start]Designed and developed custom web solutions using **PHP, Vue.js, and Laravel**.
-- [cite_start]Utilized JavaScript and jQuery to implement interactive front-end features.
-- [cite_start]Ensured full cross-browser compatibility and mobile responsiveness.
+*Aug 2019 – May 2021 (Saudi Arabia)* 
+- Designed and developed custom web solutions using **PHP, Vue.js, and Laravel**.
+- Utilized JavaScript and jQuery to implement interactive front-end features.
+- Ensured full cross-browser compatibility and mobile responsiveness.
 
 ### **PHP Developer | Freelancer**
-[cite_start]*May 2018 – Aug 2019* 
-- [cite_start]Created and maintained various web projects using PHP, HTML, and CSS.
-- [cite_start]Delivered robust solutions through strong technical problem-solving skills.
+*May 2018 – Aug 2019* 
+- Created and maintained various web projects using PHP, HTML, and CSS.
+- Delivered robust solutions through strong technical problem-solving skills.
 
 ---
 
@@ -76,6 +76,6 @@
 ---
 
 ## 🌍 Reach Out
-- [cite_start]📧 **Email:** [AhmedAlzeeWebDeveloper@gmail.com](mailto:AhmedAlzeeWebDeveloper@gmail.com) 
-- [cite_start]🌐 **Portfolio:** [ahmedalzeer.github.io](https://ahmedalzeer.github.io) 
-- [cite_start]💼 **LinkedIn:** [ahmed-alzeer-989913168](https://linkedin.com/in/ahmed-alzeer-989913168)
+- 📧 **Email:** [AhmedAlzeeWebDeveloper@gmail.com](mailto:AhmedAlzeeWebDeveloper@gmail.com) 
+- 🌐 **Portfolio:** [ahmedalzeer.github.io](https://ahmedalzeer.github.io) 
+- 💼 **LinkedIn:** [ahmed-alzeer-989913168](https://linkedin.com/in/ahmed-alzeer-989913168)
