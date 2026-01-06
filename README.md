@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Ahmed Ali
 
-<!--
-**ahmedalzeer/ahmedalzeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer with 7+ years of experience  
+🚀 Specialized in Laravel & Vue.js  
+🛠 Building scalable, high-performance web applications  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- PHP (Laravel)
+- Vue.js, Inertia
+- MySQL
+- Tailwind, Bootstrap
+- GitHub Actions (CI/CD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- 🛒 Ecommerce Platform (Laravel + Vue)
+- 📊 Admin Dashboard
+- 🔐 Auth & API Systems
+
+### 🌍 Links
+- 🌐 Portfolio: https://ahmedalzeer.github.io
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-ali-989913168
+- 📧 Email: AhmedAlzeeWebDeveloper@gmail.com
