@@ -69,8 +69,9 @@ I am a **Senior Full Stack Developer** with over **7 years of professional exper
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedalzeer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalzeer&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedalzeer&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Ahmed's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalzeer&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
 </p>
 
 ---
